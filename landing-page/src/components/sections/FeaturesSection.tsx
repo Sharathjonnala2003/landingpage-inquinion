@@ -18,7 +18,7 @@ const SectionTitle = styled.h2`
 `;
 
 const SectionSubtitle = styled.p`
-  color: ${({ theme }) => theme.colors.secondary};
+  color: #000000;
   font-size: ${({ theme }) => theme.fontSizes.lg};
 `;
 
